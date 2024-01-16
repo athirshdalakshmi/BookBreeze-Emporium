@@ -24,18 +24,24 @@ Select Books to Buy.
 Select Books Quantity.
 Buy Books.
 Get Payment Receipt.
+
 Technologies used:-
+
 Front-End Development:
 HTML
 CSS
 Javascript
 BootStrap
+
 Back-End Development:
 Java [JDK 8+]
 JDBC
 Servlet
+
 Database:
 MySql
+
+
 ================ Software And Tools Required ================
 
  Git [https://www.youtube.com/watch?v=gv7VPQ4LZ7g]
