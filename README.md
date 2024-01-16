@@ -14,8 +14,8 @@ Add New Books.
 View Books Available.
 Remove Books.
 Increase Books Amount.
-Users Have Following Access for this online store site:-
 
+Users Have Following Access for this online store site:-
 Create New Account or Register.
 Login.
 View Available Books.
@@ -23,6 +23,7 @@ Select Books to Buy.
 Select Books Quantity.
 Buy Books.
 Get Payment Receipt.
+
 
 Technologies used:-
 
